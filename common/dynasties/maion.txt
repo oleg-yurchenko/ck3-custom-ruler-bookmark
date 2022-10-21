@@ -1,5 +1,5 @@
 2100100 = {
 	name = "dynn_Maion"
 	culture = "norse"
-	motto = "dynn_Maion_motto"
+	motto = "For testing purposes!"
 }
