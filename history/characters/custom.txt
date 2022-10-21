@@ -1,0 +1,23 @@
+900100 = {
+	name = "First" #first name
+	#dna = 
+	#dynasty = 
+	culture = norse
+	religion = catholic
+	martial = 15
+	prowess = 15
+	diplomacy = 15
+	intrigue = 15
+	stewardship = 15
+	learning = 15
+	#trait = 
+	sexuality = heterosexual
+	health = 6
+	fertility = 100
+	847.3.4 = {
+		birth = yes
+	}
+	910.12.2 = {
+		death = yes
+	}
+}
