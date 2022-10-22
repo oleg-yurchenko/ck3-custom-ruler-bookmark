@@ -5,7 +5,7 @@ bm_867_africa_w = {
 	# Test Maion (of norseland?) ID: 900100
 	character = {
 		name = "bookmark_africa_w_test_maion"
-		dynasty = 9010112
+		dynasty = 901011
 		dynasty_splendor_level = 1
 		type = male
 		birth = 847.3.4

@@ -1,7 +1,7 @@
 900100 = {
 	name = "First" #first name
-	dna = "easteregg_henrik_fahraeus" #dev's DNA
-	dynasty = 9010112
+	dna = easteregg_henrik_fahraeus #dev's DNA
+	dynasty = 901011
 	culture = norse
 	religion = catholic
 	martial = 15
