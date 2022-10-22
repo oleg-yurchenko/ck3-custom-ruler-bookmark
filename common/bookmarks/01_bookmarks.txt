@@ -2,7 +2,7 @@ bm_867_africa_w = {
 	start_date = 867.1.1
 	is_playable = yes
 
-	# Test Maion (of norseland?) ID: 
+	# Test Maion (of norseland?) ID: 900100
 	character = {
 		name = "bookmark_africa_w_test_maion"
 		dynasty = 2100100
@@ -14,7 +14,7 @@ bm_867_africa_w = {
 		culture = norse
 		religion = catholic
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
-		history_id = 200000
+		history_id = 900100
 		position = {200 200}
 
 		animation = personality_dishonorable
