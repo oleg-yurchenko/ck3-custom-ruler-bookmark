@@ -1,7 +1,7 @@
 900100 = {
 	name = "First" #first name
 	dna = easteregg_henrik_fahraeus #dev's DNA
-	dynasty = 2100100
+	dynasty = 300000
 	culture = norse
 	religion = catholic
 	martial = 15

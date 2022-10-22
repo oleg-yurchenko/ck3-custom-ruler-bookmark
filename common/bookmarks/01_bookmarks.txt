@@ -5,7 +5,7 @@ bm_867_africa_w = {
 	# Test Maion (of norseland?) ID: 900100
 	character = {
 		name = "bookmark_africa_w_test_maion"
-		dynasty = 2100100
+		dynasty = 300000
 		dynasty_splendor_level = 1
 		type = male
 		birth = 847.3.4
@@ -15,7 +15,7 @@ bm_867_africa_w = {
 		religion = catholic
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
 		history_id = 900100
-		position = {200 200}
+		position = {400 400}
 
 		animation = personality_dishonorable
 	}
