@@ -1,0 +1,22 @@
+bm_867_africa_w = {
+	start_date = 867.1.1
+	is_playable = yes
+
+	# Test Maion (of norseland?) ID: 
+	character = {
+		name = ""
+		dynasty = 2100100
+		dynasty_splendor_level = 1
+		type = male
+		birth = 847.3.4
+		title = d_ghana
+		government = tribal_government
+		culture = norse
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		history_id = 200000
+		position = {200 200}
+
+		animation = personality_dishonorable
+	}
+}
